@@ -1,0 +1,6 @@
+{
+    "editor.quickSuggestionsDelay": 55555555,
+    "editor.quickSuggestions": {
+        "other": "off"
+    }
+}
